@@ -1,0 +1,1 @@
+import initApp from './pedidos.js'; initApp();
