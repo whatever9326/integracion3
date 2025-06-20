@@ -53,12 +53,12 @@ export default function initApp() {
 
       const colorMap = {
         black: 'blk',
-        blue: 'blu',
-        pink: 'pnk',
-        navy: 'nvy',
-        grey: 'gry',
+        blue: 'blue',
+        pink: 'pink',
+        navy: 'navy',
+        grey: 'grey',
         gray: 'gry',
-        purple: 'prp'
+        purple: 'purple'
       };
 
       const modelMap = {
